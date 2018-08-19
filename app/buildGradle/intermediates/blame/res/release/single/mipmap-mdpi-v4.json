@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/jun/AndroidStudioProjects/Fishfarm/app/buildGradle/intermediates/res/merged/release/mipmap-mdpi-v4/fish_logo.jpg",
+        "source": "/home/jun/AndroidStudioProjects/Fishfarm/app/src/main/res/mipmap-mdpi/fish_logo.jpg"
+    },
+    {
+        "merged": "/home/jun/AndroidStudioProjects/Fishfarm/app/buildGradle/intermediates/res/merged/release/mipmap-mdpi-v4/admin_background.jpg",
+        "source": "/home/jun/AndroidStudioProjects/Fishfarm/app/src/main/res/mipmap-mdpi/admin_background.jpg"
+    }
+]

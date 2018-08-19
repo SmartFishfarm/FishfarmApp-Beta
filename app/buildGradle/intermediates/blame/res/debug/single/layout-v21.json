@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/jun/AndroidStudioProjects/Fishfarm/app/buildGradle/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/jun/.android/build-cache/18195797031bd7900009249548efd3ea4d8cf332/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/jun/AndroidStudioProjects/Fishfarm/app/buildGradle/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/jun/.android/build-cache/18195797031bd7900009249548efd3ea4d8cf332/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/jun/AndroidStudioProjects/Fishfarm/app/buildGradle/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/jun/.android/build-cache/18195797031bd7900009249548efd3ea4d8cf332/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/jun/AndroidStudioProjects/Fishfarm/app/buildGradle/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/jun/.android/build-cache/18195797031bd7900009249548efd3ea4d8cf332/output/res/layout-v21/notification_action.xml"
+    }
+]

@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">스마트양어장</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">설정</string>
+    <string name="action_logout">로그아웃</string>
+    <string name="contacts">관리자문의:junwoopark97@naver.com</string>
+
+    <string name="save">저장</string>
+    <string name="add">추가</string>
+    <string name="event_name">일정제목</string>
+    <string name="event_location">일정위치</string>
+    <string name="attendees">참가자</string>
+    <string name="event_discription">일정내용</string>
+    <string name="event_name1">일정제목</string>
+    <string name="update">업데이트</string>
+    <string name="event_location1">일정위치</string>
+    <string name="event_discription1">일정내용</string>
+    <string name="attendee">참가자</string>
+    <string name="add1">추가</string>
+
+    <string-array name="str_languages">
+        <item> 수조1 </item>
+        <item> 수조2 </item>
+        <item> 수조3 </item>
+        <item> 수조4 </item>
+        <item> 수조5 </item>
+        <item> 수조6 </item>
+        <item> 수조7 </item>
+        <item> 수조8 </item>
+        <item> 수조9 </item>
+        <item> 수조10 </item>
+    </string-array>
+
+
+</resources>

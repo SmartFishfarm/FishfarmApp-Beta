@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/home/jun/AndroidStudioProjects/Fishfarm/app/buildGradle/intermediates/res/merged/release/mipmap-mdpi/ic_launcher.png",
+        "source": "/home/jun/AndroidStudioProjects/Fishfarm/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/jun/AndroidStudioProjects/Fishfarm/app/buildGradle/intermediates/res/merged/release/mipmap-mdpi/ic_launcher_round.png",
+        "source": "/home/jun/AndroidStudioProjects/Fishfarm/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/jun/AndroidStudioProjects/Fishfarm/app/buildGradle/intermediates/res/merged/release/mipmap-mdpi/document.png",
+        "source": "/home/jun/AndroidStudioProjects/Fishfarm/app/src/main/res/mipmap-mdpi/document.png"
+    },
+    {
+        "merged": "/home/jun/AndroidStudioProjects/Fishfarm/app/buildGradle/intermediates/res/merged/release/mipmap-mdpi/temp.png",
+        "source": "/home/jun/AndroidStudioProjects/Fishfarm/app/src/main/res/mipmap-mdpi/temp.png"
+    },
+    {
+        "merged": "/home/jun/AndroidStudioProjects/Fishfarm/app/buildGradle/intermediates/res/merged/release/mipmap-mdpi/chart.png",
+        "source": "/home/jun/AndroidStudioProjects/Fishfarm/app/src/main/res/mipmap-mdpi/chart.png"
+    },
+    {
+        "merged": "/home/jun/AndroidStudioProjects/Fishfarm/app/buildGradle/intermediates/res/merged/release/mipmap-mdpi/calendar.png",
+        "source": "/home/jun/AndroidStudioProjects/Fishfarm/app/src/main/res/mipmap-mdpi/calendar.png"
+    },
+    {
+        "merged": "/home/jun/AndroidStudioProjects/Fishfarm/app/buildGradle/intermediates/res/merged/release/mipmap-mdpi/profile.png",
+        "source": "/home/jun/AndroidStudioProjects/Fishfarm/app/src/main/res/mipmap-mdpi/profile.png"
+    },
+    {
+        "merged": "/home/jun/AndroidStudioProjects/Fishfarm/app/buildGradle/intermediates/res/merged/release/mipmap-mdpi/home.png",
+        "source": "/home/jun/AndroidStudioProjects/Fishfarm/app/src/main/res/mipmap-mdpi/home.png"
+    },
+    {
+        "merged": "/home/jun/AndroidStudioProjects/Fishfarm/app/buildGradle/intermediates/res/merged/release/mipmap-mdpi/login_background.png",
+        "source": "/home/jun/AndroidStudioProjects/Fishfarm/app/src/main/res/mipmap-mdpi/login_background.png"
+    },
+    {
+        "merged": "/home/jun/AndroidStudioProjects/Fishfarm/app/buildGradle/intermediates/res/merged/release/mipmap-mdpi/oxygen.png",
+        "source": "/home/jun/AndroidStudioProjects/Fishfarm/app/src/main/res/mipmap-mdpi/oxygen.png"
+    }
+]

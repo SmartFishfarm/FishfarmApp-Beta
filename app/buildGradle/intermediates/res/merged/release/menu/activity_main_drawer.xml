@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_main"
+            android:icon="@mipmap/home"
+            android:title="메인" />
+        <item
+            android:id="@+id/nav_chart"
+            android:icon="@mipmap/chart"
+            android:title="차트" />
+        <item
+            android:id="@+id/nav_record"
+            android:icon="@mipmap/document"
+            android:title="기록일지" />
+        <item
+            android:id="@+id/nav_camera"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="영상" />
+        <item
+            android:id="@+id/nav_calendar"
+            android:icon="@mipmap/calendar"
+            android:title="일정관리" />
+    </group>
+
+    <item android:title="서비스기업정보">
+        <menu>
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="연락" />
+        </menu>
+    </item>
+
+</menu>

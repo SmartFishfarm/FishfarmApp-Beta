@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/jun/AndroidStudioProjects/Fishfarm/app/buildGradle/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/jun/.android/build-cache/18195797031bd7900009249548efd3ea4d8cf332/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/home/jun/AndroidStudioProjects/Fishfarm/app/buildGradle/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/jun/.android/build-cache/18195797031bd7900009249548efd3ea4d8cf332/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]

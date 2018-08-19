@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/jun/AndroidStudioProjects/Fishfarm/app/buildGradle/intermediates/res/merged/debug/drawable-xxhdpi/ic_menu_gallery.png",
+        "source": "/home/jun/AndroidStudioProjects/Fishfarm/app/buildGradle/generated/res/pngs/debug/drawable-xxhdpi/ic_menu_gallery.png"
+    },
+    {
+        "merged": "/home/jun/AndroidStudioProjects/Fishfarm/app/buildGradle/intermediates/res/merged/debug/drawable-xxhdpi/ic_menu_camera.png",
+        "source": "/home/jun/AndroidStudioProjects/Fishfarm/app/buildGradle/generated/res/pngs/debug/drawable-xxhdpi/ic_menu_camera.png"
+    },
+    {
+        "merged": "/home/jun/AndroidStudioProjects/Fishfarm/app/buildGradle/intermediates/res/merged/debug/drawable-xxhdpi/ic_menu_share.png",
+        "source": "/home/jun/AndroidStudioProjects/Fishfarm/app/buildGradle/generated/res/pngs/debug/drawable-xxhdpi/ic_menu_share.png"
+    },
+    {
+        "merged": "/home/jun/AndroidStudioProjects/Fishfarm/app/buildGradle/intermediates/res/merged/debug/drawable-xxhdpi/ic_menu_slideshow.png",
+        "source": "/home/jun/AndroidStudioProjects/Fishfarm/app/buildGradle/generated/res/pngs/debug/drawable-xxhdpi/ic_menu_slideshow.png"
+    },
+    {
+        "merged": "/home/jun/AndroidStudioProjects/Fishfarm/app/buildGradle/intermediates/res/merged/debug/drawable-xxhdpi/ic_menu_send.png",
+        "source": "/home/jun/AndroidStudioProjects/Fishfarm/app/buildGradle/generated/res/pngs/debug/drawable-xxhdpi/ic_menu_send.png"
+    },
+    {
+        "merged": "/home/jun/AndroidStudioProjects/Fishfarm/app/buildGradle/intermediates/res/merged/debug/drawable-xxhdpi/ic_menu_manage.png",
+        "source": "/home/jun/AndroidStudioProjects/Fishfarm/app/buildGradle/generated/res/pngs/debug/drawable-xxhdpi/ic_menu_manage.png"
+    }
+]
